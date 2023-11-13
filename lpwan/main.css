@@ -1,0 +1,51 @@
+.titulo{
+    display: flex;
+    background-color: black;
+    color: white;
+    justify-content: center;
+    
+}
+.p1{
+    position: absolute;
+    right: 50em;
+    left: 1em;
+    font-size: 18px;
+    background-color: whitesmoke;
+    border-radius: 15px;
+}
+.img1{
+    position: absolute;
+    left: 40em;
+    top: 6em;
+}
+.p2{
+    position: absolute;
+    right: 1em;
+    left: 50em;
+    font-size: 18px;
+    background-color: whitesmoke;
+    border-radius: 15px;
+}
+.p3{
+    position: absolute;
+    right: 50em;
+    left: 1em;
+    top: 21em;
+    font-size: 18px;
+    background-color: whitesmoke;
+    border-radius: 15px;  
+}
+.p4{
+    position: absolute;
+    right: 1em;
+    left: 50em;
+    top: 21em;
+    font-size: 18px;
+    background-color: whitesmoke;
+    border-radius: 15px;  
+}
+.img2{
+    position: absolute;
+    left: 37.5em;
+    top: 25em;
+}
